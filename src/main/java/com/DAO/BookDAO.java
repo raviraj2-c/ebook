@@ -23,4 +23,14 @@ public interface BookDAO {
 	
 	public List<bookDtls> getOldBooks();
 	
+	public List<bookDtls> getAllRecentBook();
+	
+	public List<bookDtls> getAllNewBook();
+	
+	public List<bookDtls> getAllOldBook();
+	
+	public List<bookDtls> getBookByOld(String email,String cart);
+	
+	public boolean oldBookDelete(String email,String cart,int id);
+	
 }

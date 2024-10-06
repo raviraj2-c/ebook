@@ -1,4 +1,4 @@
-<div class="conatiner-fluid text-center text-white p-3 mt-1"
+<div class="conatiner-fluid  p-2"
 	style="background-color: #303f9f;">
-	<h5>Design and Devloped by CodeWith Pabitra</h5>
+	<p class="text-center text-white">Design and Devloped by CodeWith Pabitra</p>
 </div>
